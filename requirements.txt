@@ -1,2 +1,5 @@
 streamlit
 reportlab
+
+pip install streamlit fpdf spacy
+python -m spacy download en_core_web_sm
